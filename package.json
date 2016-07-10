@@ -1,0 +1,27 @@
+{
+  "name": "gif-captcha-recognizer",
+  "version": "1.0.0",
+  "description": "uses captcha-recognizer to recognize text from a gif",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattbajorek/gif-captcha-recognizer.git"
+  },
+  "keywords": [
+    "gif",
+    "captcha",
+    "recognizer"
+  ],
+  "author": "Matt Bajorek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattbajorek/gif-captcha-recognizer/issues"
+  },
+  "homepage": "https://github.com/mattbajorek/gif-captcha-recognizer#readme",
+  "dependencies": {
+    "captcha-recognizer": "^1.0.0"
+  }
+}
